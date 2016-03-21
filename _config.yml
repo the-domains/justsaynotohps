@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.5088689
 color:
   saturation: 0.6278195
   brandStrength: 0.06202159
-  lightness: 0.7384533
+  rhythmicContrast: 0.08216969
   brandColors:
     - '#16061F'
     - '#6F3176'
     - '#D875E1'
     - '#FFFCFF'
     - '#884AFF'
-  rhythmicContrast: 0.08216969
+  lightness: 0.7384533
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 layout_spectrum: 0.4123129
+typography_spectrum: 0.5088689
 name: JustSayNoToHPS
