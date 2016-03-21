@@ -1,14 +1,3 @@
-color:
-  saturation: 0.01767064
-  brandStrength: 0.06202159
-  rhythmicContrast: 0.3595418
-  brandColors:
-    - '#16061F'
-    - '#6F3176'
-    - '#D875E1'
-    - '#FFFCFF'
-    - '#884AFF'
-  lightness: 0.9818616
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.4123129
 typography_spectrum: 0.5088689
+color:
+  saturation: 0.6278195
+  brandStrength: 0.06202159
+  lightness: 0.7384533
+  brandColors:
+    - '#16061F'
+    - '#6F3176'
+    - '#D875E1'
+    - '#FFFCFF'
+    - '#884AFF'
+  rhythmicContrast: 0.08216969
+layout_spectrum: 0.4123129
 name: JustSayNoToHPS
