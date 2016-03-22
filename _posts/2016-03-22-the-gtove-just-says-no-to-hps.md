@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:1d05c512-8778-463d-b3d9-eea5a006de6e'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-22T19:48:33.877Z'
+dateModified: '2016-03-22T19:48:29.405Z'
 author: []
-datePublished: '2016-03-22T19:43:34.627Z'
-publisher:
-  domain: ''
-  name: ''
-title: The Gtove Just Says No To HPS
-dateModified: '2016-03-22T19:42:36.635Z'
+title: The Grove Just Says No To HPS
 sourcePath: _posts/2016-03-22-the-gtove-just-says-no-to-hps.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: the-gtove-just-says-no-to-hps/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# The Gtove Just Says No To HPS
+# The Grove Just Says No To HPS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/572a26f8-7e17-4069-bba0-92a4f1340adf.png)
