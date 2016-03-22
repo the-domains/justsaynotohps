@@ -1,14 +1,7 @@
-color:
-  saturation: 0.6278195
-  brandStrength: 0.06202159
-  rhythmicContrast: 0.08216969
-  brandColors:
-    - '#16061F'
-    - '#6F3176'
-    - '#D875E1'
-    - '#FFFCFF'
-    - '#884AFF'
-  lightness: 0.7384533
+name: JustSayNoToHPS
+favicon: null
+layout_spectrum: 0.4123129
+typography_spectrum: 0.5088689
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.4123129
-typography_spectrum: 0.5088689
-name: JustSayNoToHPS
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#010101'
+    - '#dfe0e2'
+    - '#bea187'
+    - '#06434e'
+    - '#169977'
+  brandStrength: 0.125
+  lightness: 0.7384533
+  saturation: 0.6278195
+  rhythmicContrast: 0.08216969
+purpose: []
