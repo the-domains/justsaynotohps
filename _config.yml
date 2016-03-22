@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: JustSayNoToHPS
 cta:
   domain: null
   bucket: null
